@@ -1,7 +1,7 @@
 # SmartPointer
-手写智能指针shared_ptr
-
-## Usage(CMake)
+implement a tiny shared_ptr. 
+## Usage
+Ensure you have installed CMake.
 `mkdir build`<br>
 `cd build`<br>
 `cmake ..`<br>
